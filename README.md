@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview during my college
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/lihasraj02-source/Learning-DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/lihasraj02-source/Learning-DSA-/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
